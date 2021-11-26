@@ -18,6 +18,7 @@
 // along with this software.  If not, see <http://www.gnu.org/licenses/>.
 //
 // Primary author: Jorge L. Lovaco <media@resairchia.com>
+//This is a beta version and still under development. Use at your own risk.
 package ExternalFunctions
 extends ExternalFunctions.Icons.Packages;
 end ExternalFunctions;
